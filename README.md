@@ -3,9 +3,9 @@ WCF is a framework, which is used for creating service where you can send the da
 In WCF developer can create one single service that can be consumed by two different clients- either they want same protocol or a different protocol.
 
 * WCF consists of:
-1- WCF Service : What is the service and what it is providing.
-2- WCF Service host: Where is the Service hosted.
-3- Service Client: Who is the client of the Service.
+1- WCF Service : What is the service and what it is providing.<br/>
+2- WCF Service host: Where is the Service hosted.<br/>
+3- Service Client: Who is the client of the Service.<br/>
 
 # Why WCF?
 * Distributed Application
