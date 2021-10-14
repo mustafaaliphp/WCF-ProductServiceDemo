@@ -21,3 +21,8 @@ End point consists of three things:<br/>
 Address: is the address of WCF Service, where the Service is hosted? It gives the exact URL of Web Service, where the Service hosts the pattern of URL.<br/>
 Binding: It describes the way or mechanism by which the user will communicate with Web Service. It constitutes some binding element, which creates the structure of communication such as some transport protocols like HTTP, TCP etc. Message format or security techniques etc.<br/>
 Contract: is the third important question. What functionality and operation is being provided by  the service is called contract. It specifies what functionality and operations are need to be exposed to the client. It is the interface name which has all operation that need to be exposed.<br/>
+* Hosting: is the important thing in WCF Application and it makes WCF Application different from other distributed Applications. <br/>
+WCF supports following types of hosting:<br/>
+IIS Hosting<br/>
+Self hosting<br/>
+WAS hosting<br/>
