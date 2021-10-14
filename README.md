@@ -26,3 +26,4 @@ WCF supports following types of hosting:<br/>
 IIS Hosting<br/>
 Self hosting<br/>
 WAS hosting<br/>
+* SOAP: its an XML based message protocol.
