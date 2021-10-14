@@ -13,3 +13,8 @@ It means those Applications, which do not run only on single system but can run 
 
 * Interoperable
 It means that an Application can consume or connect with another Application but it does not matter in which platform it is developed.
+
+# Fundamentals of WCF
+* Message: is the communication unit, as it is in the form of an envelop. The transmission of the data from the client to Service and Service to client is being done by envelop. The envelop or message has the sections, header and body.
+* Endpoint: is a very essential part of WCF Application, as it describes the address of Web Service from where a user can receive and send the message. It also specifies the communication mechanism of how the message will be sent or received.
+* End point consists of three things:
