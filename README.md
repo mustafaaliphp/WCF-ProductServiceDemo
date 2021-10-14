@@ -16,8 +16,8 @@ It means that an Application can consume or connect with another Application but
 
 # Fundamentals of WCF
 * Message: is the communication unit, as it is in the form of an envelop. The transmission of the data from the client to Service and Service to client is being done by envelop. The envelop or message has the sections, header and body.
-* Endpoint: is a very essential part of WCF Application, as it describes the address of Web Service from where a user can receive and send the message. It also specifies the communication mechanism of how the message will be sent or received.
+* Endpoint: is a very essential part of WCF Application, as it describes the address of Web Service from where a user can receive and send the message. It also specifies the communication mechanism of how the message will be sent or received.<br/>
 End point consists of three things:<br/>
-Address: is the address of WCF Service, where the Service is hosted? It gives the exact URL of Web Service, where the Service hosts the pattern of URL.
+Address: is the address of WCF Service, where the Service is hosted? It gives the exact URL of Web Service, where the Service hosts the pattern of URL.<br/>
 Binding: It describes the way or mechanism by which the user will communicate with Web Service. It constitutes some binding element, which creates the structure of communication such as some transport protocols like HTTP, TCP etc. Message format or security techniques etc.<br/>
 Contract: is the third important question. What functionality and operation is being provided by  the service is called contract. It specifies what functionality and operations are need to be exposed to the client. It is the interface name which has all operation that need to be exposed.<br/>
