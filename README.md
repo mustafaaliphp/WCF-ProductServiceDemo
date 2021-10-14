@@ -1,6 +1,6 @@
 # WCF-ProductServiceDemo
 WCF is a framework, which is used for creating service where you can send the data from one end point to another.
-In WCF developer can create one single service that can be consumed by two different clients- either they want same protocol or a different protocol.\
+In WCF developer can create one single service that can be consumed by two different clients- either they want same protocol or a different protocol.
 
 * WCF consists of:
 * WCF Service : What is the service and what it is providing.
